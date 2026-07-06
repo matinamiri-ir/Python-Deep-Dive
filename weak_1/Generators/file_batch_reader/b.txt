@@ -1,0 +1,8 @@
+Python
+JavaScript
+
+# comment line
+React
+Redux
+
+AI Engineer
